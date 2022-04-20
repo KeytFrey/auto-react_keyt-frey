@@ -1,0 +1,20 @@
+.login,
+.logout {
+    width: 25px;
+    height: 25px;
+
+    background: none;
+    border: none;
+
+    cursor: pointer;
+}
+
+.login {
+    font-size: 0;
+    background: url('/public/img/login.svg') no-repeat center center / cover;
+}
+
+.logout {
+    font-size: 0;
+    background: url('/public/img/logout.svg') no-repeat center center / cover;
+}

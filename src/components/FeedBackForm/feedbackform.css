@@ -1,0 +1,8 @@
+.form__textarea,
+.form__content {
+    min-width: 198px;
+    max-width: 250px;
+    height: 20px;
+    min-height: 22px;
+    max-height: 115px;
+}

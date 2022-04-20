@@ -1,0 +1,20 @@
+.Catalogh {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+
+
+  .btndelh {
+    width: auto;
+    height: 30px;
+
+    font-size: 14px;
+    color: #000;
+    border-radius: 20px;
+  }
+
+  .btndelh:hover {
+    color: #fff;
+    background-color: #ff0000;
+  }

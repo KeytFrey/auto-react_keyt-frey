@@ -1,0 +1,30 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    height: 25px;
+    height: 25px;
+}
+
+.navli {
+    display: flex;
+    align-items: center;
+    height: 25px;
+    padding-bottom: 5px;
+    list-style: none;
+    cursor: pointer;
+}
+
+.navli:hover {
+    border-bottom: 1px solid #ff0000;
+}
+
+footer .navli:hover {
+    text-decoration: underline;
+    border-bottom: none;
+}
+
+.auth {
+    display: flex;
+    justify-content: space-between;
+}

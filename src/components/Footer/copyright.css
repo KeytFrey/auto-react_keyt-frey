@@ -1,0 +1,10 @@
+.copyright {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.year {
+    font-weight: 700;
+    color: #ff0000;
+}
